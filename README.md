@@ -1,2 +1,2 @@
 # Pyramid
-Pyramid with JavaScript
+Show 4 pyramid with JavaScript
